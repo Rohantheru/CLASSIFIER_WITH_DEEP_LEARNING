@@ -1,1 +1,2 @@
 MODELS/CNN_MODEL.keras filter=lfs diff=lfs merge=lfs -text
+MODELS/CNN_MODEL.keras filter=lfs diff=lfs merge=lfs -text
